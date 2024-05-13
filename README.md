@@ -7,6 +7,10 @@
 3. [ServiceRegistry Microservice](./ServiceRegistry/)
 4. [APIGateway Microservice](./APIGateway/)
 
+## API Doucmentation 
+
+Link: [Click Here](https://documenter.getpostman.com/view/10745983/2sA3JNcgUp)
+
 ## Packages
 
 1. OpenFiegn Package: For communication between microservices over http 
